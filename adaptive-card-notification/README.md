@@ -1,4 +1,4 @@
-# Getting Started with Adaptive Card Notification 1
+# Getting Started with Adaptive Card Notification
 
 Adaptive Card Notification provides an easy way to send notification in Teams. The front end is built with Adaptive Cards to render notification details, the bot framework service is an Azure Bot Service handling search queries and communication between the server workload and the client and the backend is hosted in Azure Functions providing notification trigger and message handler.
 
