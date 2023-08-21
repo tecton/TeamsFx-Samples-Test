@@ -464,6 +464,26 @@
             "configuration": "Ready for debug",
             "gifPath": "src/assets/screenshot.png",
             "suggested": false
+        },
+        {
+            "id": "onboard-test-1",
+            "onboardDate": "2023-08-21",
+            "title": "test",
+            "shortId": "test",
+            "shortDescription": "test",
+            "fullDescription": "test",
+            "types": [
+                "Tab"
+            ],
+            "tags": [
+                "Tab",
+                "TS"
+            ],
+            "time": "5min to run",
+            "configuration": "Ready for debug",
+            "gifPath": "test",
+            "maximumToolkitVersion": "5.0",
+            "suggested": true
         }
     ]
 }
