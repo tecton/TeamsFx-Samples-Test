@@ -18,7 +18,6 @@
             "time": "5min to run",
             "configuration": "Ready for debug",
             "gifPath": "images/helloWorld-tab-with-backend.gif",
-            "maximumToolkitVersion": "5.0",
             "suggested": true
         },
         {
