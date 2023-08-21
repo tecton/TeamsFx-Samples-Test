@@ -1,26 +1,6 @@
 {
     "samples": [
         {
-            "id": "hello-world-tab-with-backend",
-            "onboardDate": "2021-11-30",
-            "title": "Tab App with Azure Backend",
-            "shortId": "helloworld-backend",
-            "shortDescription": "A Hello World app of Microsoft Teams Tab app which has a backend service",
-            "fullDescription": "This is a Hello World app of Microsoft Teams Tab app which accomplishes very simple function like single-sign on. You can run this app locally or deploy it to Microsoft Azure. This app has a Tab frontend and a backend service using Azure Function.",
-            "types": [
-                "Tab"
-            ],
-            "tags": [
-                "Tab",
-                "TS",
-                "Azure function"
-            ],
-            "time": "5min to run",
-            "configuration": "Ready for debug",
-            "gifPath": "images/helloWorld-tab-with-backend.gif",
-            "suggested": true
-        },
-        {
             "id": "graph-toolkit-contact-exporter",
             "shortId": "contact-exporter",
             "onboardDate": "2021-11-30",
