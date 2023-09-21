@@ -11,6 +11,8 @@ const data: CardData = {
   notificationUrl: "https://www.adaptivecards.io/",
 };
 
+
+
 // HTTP trigger to send notification.
 const httpTrigger: AzureFunction = async function (
   context: Context,
